@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/gh-cart/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gh-cart/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gh-common/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gh-coupon/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gh-coupon/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gh-gateway/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gh-gateway/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gh-login-auth/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gh-login-auth/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gh-member/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gh-member/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gh-order/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gh-order/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gh-product/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gh-product/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gh-search/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gh-search/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gh-seckill/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gh-seckill/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gh-sso-client/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gh-sso-client/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gh-sso-client1/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gh-sso-client1/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gh-sso-server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gh-sso-server/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gh-third-party/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gh-third-party/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gh-ware/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gh-ware/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/renren-fast/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/renren-generator/src/main/java" charset="UTF-8" />
+  </component>
+</project>

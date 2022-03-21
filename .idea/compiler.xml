@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="gh-search" />
+        <module name="gh-ware" />
+        <module name="renren-fast" />
+        <module name="gh-sso-client1" />
+        <module name="gh-seckill" />
+        <module name="gh-order" />
+        <module name="gh-third-party" />
+        <module name="gh-sso-client" />
+        <module name="gh-gateway" />
+        <module name="gh-coupon" />
+        <module name="gh-product" />
+        <module name="renren-generator" />
+        <module name="gh-login-auth" />
+        <module name="gh-member" />
+        <module name="gh-sso-server" />
+        <module name="gh-common" />
+        <module name="gh-cart" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="8">
+      <module name="gh-cart" target="1.8" />
+      <module name="gh-common" target="1.8" />
+      <module name="gh-coupon" target="1.8" />
+      <module name="gh-gateway" target="1.8" />
+      <module name="gh-login-auth" target="1.8" />
+      <module name="gh-member" target="1.8" />
+      <module name="gh-order" target="1.8" />
+      <module name="gh-product" target="1.8" />
+      <module name="gh-search" target="1.8" />
+      <module name="gh-seckill" target="1.8" />
+      <module name="gh-small" target="1.8" />
+      <module name="gh-sso-client" target="1.8" />
+      <module name="gh-sso-client1" target="1.8" />
+      <module name="gh-sso-server" target="1.8" />
+      <module name="gh-third-party" target="1.8" />
+      <module name="gh-ware" target="1.8" />
+      <module name="renren-fast" target="1.8" />
+      <module name="renren-generator" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="renren-fast" options="-parameters" />
+      <module name="renren-generator" options="-parameters" />
+    </option>
+  </component>
+</project>
